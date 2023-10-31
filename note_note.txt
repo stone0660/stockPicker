@@ -1,0 +1,45 @@
+
+6535727514
+wwsstt123
+
+
+https://xueqiu.com/u/4104161666
+
+document.querySelector("#app > div.container.profiles__main__container > div.profiles__main.enterprise__main > div.profiles__timeline__bd")
+
+profiles__timeline__bd
+
+
+
+<a href="/4104161666/264924541" target="_blank" data-id="264924541" class="date-and-source">15小时前<span class="source">· 来自雪球</span></a>
+
+<a href="/4104161666/264770408" target="_blank" data-id="264770408" class="date-and-source">10-27 17:40<span class="source">· 来自雪球</span></a>
+
+
+<a href="/4104161666/264924545" target="_blank" data-id="264924545" class="fake-anchor"></a>
+
+
+<h3 class="timeline__item__title"><!----><span>肘墨鱼块</span></h3>
+
+<h3 class="timeline__item__title"><!----><span>2023-10-29 数据</span></h3>
+
+
+<article class="timeline__item"><a href="/4104161666" target="_blank" data-tooltip="4104161666" class="avatar avatar-md"><img src="//xavatar.imedao.com/community/20175/1498484039893-1498484046012.jpg!240x240.jpg"></a><div class="timeline__item__top__right"><!----><!----></div><div class="timeline__item__main"><!----><div class="timeline__item__info"><div><a href="/4104161666" target="_blank" data-tooltip="4104161666" class="user-name">爱在冰川</a><!----><!----><!----><!----><!----><!----></div><a href="/4104161666/222995929" target="_blank" data-id="222995929" class="date-and-source">修改于2022-11-15 12:01<span class="source">· 来自Android</span></a><!----><span class="timeline__item__tag--stick">置顶</span></div><div class="timeline__item__bd"><div class="timeline__item__content"><!----><div class="content content--description"><!----><div class="">我这的文章都是雪球后台自动抓取自动转载过来的。。 我是个机器人。。</div><!----><!----><!----></div></div><!----><!----><!----></div><div class="timeline__item__ft timeline__item__ft--other"><a href="" class="timeline__item__control"><i class="iconfont"></i><span>转发<!----></span></a><a href="" class="timeline__item__control"><i class="iconfont"></i><span>评论(47)</span></a><a href="" class="timeline__item__control"><i class="iconfont"></i><span>赞(252)</span></a><!----><a href="" class="timeline__item__control"><i class="iconfont"></i><span>收藏</span></a><!----><div style="position: relative; height: 21px;"><a href="" class="timeline__item__control timeline__item__control--control"><i class="iconfont"></i><span>投诉</span></a><div class="report__list" style="display: none;"><div class="report__list__reason"><label class="report__radio--inline">垃圾广告</label><label class="report__radio--inline">敏感时政</label><label class="report__radio--inline">人身攻击</label><label class="report__radio--inline">黄赌毒</label><label class="report__radio--inline">非法荐股</label><!----><!----><label class="report__radio--inline">侵害未成年人权益</label><label class="report__radio--inline border-bottom">财经类违规信息</label><div class="report__list__other"><div class="button__flex"><a href="/law/tortreport/plagiarize" target="_blank">内容抄袭</a><img src="https://xqimg.imedao.com/17d2cc31ef1177b3f94f0cbd.png" class="report__icon"></div><div class="button__flex"><a href="/law/tortreport/other" target="_blank">侵权等其他投诉</a><img src="https://xqimg.imedao.com/17d2cc31ef1177b3f94f0cbd.png" class="report__icon"></div></div></div></div><!----></div></div></div><div class="timeline__item__comment"><!----></div></article>
+
+除外：
+<span class="timeline__item__tag--stick">置顶</span>
+
+<article class="timeline__item"><a href="https://xueqiu.com/4104161666" target="_blank" data-tooltip="4104161666" class="avatar avatar-md"><img src="./爱在冰川&amp;nbsp;-&amp;nbsp;雪球_files/1498484039893-1498484046012.jpg!240x240.jpg"></a><div class="timeline__item__top__right"></div><div class="timeline__item__main"><div class="timeline__item__info"><div><a href="https://xueqiu.com/4104161666" target="_blank" data-tooltip="4104161666" class="user-name">爱在冰川</a></div><a href="https://xueqiu.com/4104161666/222995929" target="_blank" data-id="222995929" class="date-and-source">修改于2022-11-15 12:01<span class="source">· 来自Android</span></a><span class="timeline__item__tag--stick">置顶</span></div><div class="timeline__item__bd"><div class="timeline__item__content"><div class="content content--description"><div>我这的文章都是雪球后台自动抓取自动转载过来的。。 我是个机器人。。</div></div></div></div><div class="timeline__item__ft timeline__item__ft--other"><a href="https://xueqiu.com/u/4104161666" class="timeline__item__control"><i class="iconfont"></i><span>转发</span></a><a href="https://xueqiu.com/u/4104161666" class="timeline__item__control"><i class="iconfont"></i><span>评论(47)</span></a><a href="https://xueqiu.com/u/4104161666" class="timeline__item__control"><i class="iconfont"></i><span>赞(252)</span></a><a href="https://xueqiu.com/u/4104161666" class="timeline__item__control"><i class="iconfont"></i><span>收藏</span></a><div style="position: relative; height: 21px;"><a href="https://xueqiu.com/u/4104161666" class="timeline__item__control timeline__item__control--control"><i class="iconfont"></i><span>投诉</span></a><div class="report__list" style="display: none;"><div class="report__list__reason"><label class="report__radio--inline">垃圾广告</label><label class="report__radio--inline">敏感时政</label><label class="report__radio--inline">人身攻击</label><label class="report__radio--inline">黄赌毒</label><label class="report__radio--inline">非法荐股</label><label class="report__radio--inline">侵害未成年人权益</label><label class="report__radio--inline border-bottom">财经类违规信息</label><div class="report__list__other"><div class="button__flex"><a href="https://xueqiu.com/law/tortreport/plagiarize" target="_blank">内容抄袭</a><img src="./爱在冰川&amp;nbsp;-&amp;nbsp;雪球_files/17d2cc31ef1177b3f94f0cbd.png" class="report__icon"></div><div class="button__flex"><a href="https://xueqiu.com/law/tortreport/other" target="_blank">侵权等其他投诉</a><img src="./爱在冰川&amp;nbsp;-&amp;nbsp;雪球_files/17d2cc31ef1177b3f94f0cbd.png" class="report__icon"></div></div></div></div></div></div></div><div class="timeline__item__comment"></div></article>
+
+
+timeline__item__content timeline__item__content--longtext
+
+<div class="timeline__item__content timeline__item__content--longtext"><a href="https://xueqiu.com/4104161666/264924545" target="_blank" data-id="264924545" class="fake-anchor"></a><h3 class="timeline__item__title"><span>2023-10-29 数据</span></h3><div class="content content--description"><div>本复盘仅为鄙人的股市思考历程，非荐股，请勿跟票。<br>
+各 种 数 据<br>
+赚钱效应<br>趋势：↑<br>
+涨停动因<br>闲 聊<br>
+记录我自己明天观察的标的，非操作建议，请勿跟票）：<br>
+明天周一是最后一天业绩报披露日了，披露完，这个三季报周期就结束了，后面就开始进入到业绩空档期了，市...</div></div><div class="content__addition pic__thumb pic__thumb--vertical image-tag__timeline--long"><img src="./爱在冰川&amp;nbsp;-&amp;nbsp;雪球_files/18b7c3cc40493dd73fe32b7d.png!800.jpg"></div></div>
+
+
+timeline__item__content timeline__item__content--longtext
